@@ -1,5 +1,6 @@
 BCC #lattice type (FCC or BCC)
 32 32 32 #number of primitive cells in each direction
+2.86 #distance between nearest neighbors
 3 #number of elements
 Mo Nb Ti #names of elements
 0.33 0.33 0.33 #concentration of each elements
@@ -7,4 +8,4 @@ prob #either prob (to input pij) or wc (to input warren-cowley parameters)
 0.10768229 0.42402344 0.46829427
 0.42402344 0.29674479 0.27923177
 0.46829427 0.27923177 0.25247396
-monbti_300_lattice #output file name
+MoNbTi_300_32_32_32_lattice #output file name
